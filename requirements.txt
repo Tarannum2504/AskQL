@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib
+seaborn
+fuzzywuzzy
+python-Levenshtein
+openpyxl
+plotly
+google-generativeai
+sqlparse
+tabulate
